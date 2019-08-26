@@ -43,7 +43,6 @@ function runTheClock() {
 
     HOURHAND.style.transform = "rotate(" + hrPosition + "deg)";
     MINUTEHAND.style.transform = "rotate(" + minPosition + "deg)";
-
     SECONDHAND.style.transform = "rotate(" + secPosition + "deg)";
 }
 
