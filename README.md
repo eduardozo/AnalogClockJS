@@ -6,5 +6,5 @@ Classic Clock
 - HTML
 - JavaScript
 
-![Screenshot](./clock.png)
+![Screenshot](img/clock.png)
 
