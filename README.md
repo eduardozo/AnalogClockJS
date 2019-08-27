@@ -1,5 +1,5 @@
 # AnalogClockJS
-Classic Clock
+This classic clock runs on your browser, it shows your current time in real time.
 
 **Tools:**
 - CSS
